@@ -18,5 +18,5 @@ Sou um desenvolvedor apaixonado pela área. Atualmente, estou focado em construi
 
 ### 📊 Estatísticas do GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Lucasfec4&show_icons=true&theme=radical&hide_border=true&bg_color=17221a&title_color=8fb996&text_color=f7f5f0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lucasfec4&show_icons=true&theme=radical&hide_border=true&bg_color=17221a&title_color=8fb996&text_color=f7f5f0" alt="GitHub Stats" />
 </p>
